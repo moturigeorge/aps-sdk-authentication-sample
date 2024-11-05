@@ -1,0 +1,6 @@
+@aps-sdk-authentication-sample_HostAddress = http://localhost:5063
+
+GET {{aps-sdk-authentication-sample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
