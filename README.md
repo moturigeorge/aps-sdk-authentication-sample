@@ -1,4 +1,4 @@
-# Autodesk APS 3 Legged Authentication using SDK
+# Autodesk APS 3-Legged OAuth Sample using SDK
 
 ![platforms](https://img.shields.io/badge/platform-windows-lightgray.svg)
 [![Visual Studio Community 2022](https://img.shields.io/badge/Visual%20Studio-2022-green.svg)](https://visualstudio.microsoft.com/vs/community/)
@@ -12,7 +12,7 @@
 
 # Description
 
-This sample demonstrates the retreival of Autodesk APS 3legged authentication token using the SDK: [Authentication (OAuth)](https://aps.autodesk.com/en/docs/oauth/v2/reference/dot-net-sdk/Autodesk.Authentication/AuthenticationClient/)
+This sample demonstrates the retreival of Autodesk APS 3-legged authentication token using C# .NET SDK: [Authentication (OAuth)](https://aps.autodesk.com/en/docs/oauth/v2/reference/dot-net-sdk/Autodesk.Authentication/AuthenticationClient/)
 
 
 # Thumbnail
@@ -39,6 +39,7 @@ This sample demonstrates the retreival of Autodesk APS 3legged authentication to
 - [Visual Studio Community 2022](https://visualstudio.microsoft.com/vs/community/) or [.NET 8](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 - Terminal (for example, [Windows Command Prompt](https://en.wikipedia.org/wiki/Cmd.exe) 
 or [macOS Terminal](https://support.apple.com/guide/terminal/welcome/mac)) if you don't have Visual Studio
+- [Autodesk.Authentication Package](https://www.nuget.org/packages/Autodesk.Authentication)
 
 ## Running locally
 
